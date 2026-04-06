@@ -97,13 +97,29 @@ This data is well-suited for identifying behavioral differences, seasonal trends
   <img width="1109" height="624" alt="Screenshot (1617)" src="https://github.com/user-attachments/assets/a17d3c03-b45d-4259-bfb2-133a056386c2" /><br/>
 
 
- #### Weekly Ride Volume by Rider Type
+ #### 📊 Weekly Ride Volume by Rider Type
   *    👥 Members dominate weekdays→ Highest rides (Tue–Fri ~364K–428K)→ Driven by daily commuting 
   *    🚴‍Casual riders peak on weekends→ Sharp increase on Sat & Sun (~113K–116K)→ Driven by leisure & tourism 
   *    📉 Member usage drops on weekends→ Significant decline (~213K–208K)  Weekly Ride Volume by Rider Type
   *    👥 Members dominate weekdays→ Highest rides (Tue–Fri ~364K–428K)→ Driven by daily commuting
   *    🚴‍Casual riders peak on weekends→ Sharp increase on Sat & Sun (~113K–116K)→ Driven by leisure & tourism 
   *    📉 Member usage drops on weekends→ Significant decline (~213K–208K)
+
+
+<img width="1026" height="614" alt="Screenshot (1619)" src="https://github.com/user-attachments/assets/18dbe538-35fb-49e7-9f2f-0cf3b5d71ecd" /><br/>
+
+ #### 📊 Ride Volume by Start Station
+  *    📍 Top Stations (High Demand)→ Canal St & Adams St (~44K)→ Clinton St locations (~39K)👉 Major commuter hubs 
+  *    👥 Member-Dominated Areas→ Business districts show higher member usage👉 Driven by daily work commute 
+  *    🚴‍ Casual Hotspots→ Streeter Dr & Grand Ave (~29K casual)→ Tourist/waterfront locations👉 Driven by leisure & tourism 
+  *    📉 Low-Volume Stations→ Parks & attractions (~7K–12K)👉 Seasonal or occasional use
+
+###    Recommendations
+
+ #### Top 3 Recommendations
+  1. Target Casual Riders During Peak Seasons Focus marketing campaigns in summer months, when casual riders take longer, leisure trips and are more likely to convert.<br/>
+  2. Promote Membership for Daily Commuters Offer incentives (e.g., discounts, free trials) during peak commute hours to encourage frequent riders to switch to annual plans.<br/>
+  3. Personalize Marketing by Usage Behavior Segment users based on ride duration and time of use to deliver tailored messages (leisure vs commute) that drive higher conversion rates.
 
 
 
