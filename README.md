@@ -79,7 +79,7 @@ This data is well-suited for identifying behavioral differences, seasonal trends
 
 ### Visualizations & Findings
 👉
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjI3YmQ2N2MtZDNkYi00Yjc0LTkzZGMtYWY1Nzc5MTU3MjMwIiwidCI6IjY3ZjdhOGVkLTdiNTEtNGQ4Mi05MzM2LWQwN2U1NTI4NTI0YiJ9)
+[PowerBi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjI3YmQ2N2MtZDNkYi00Yjc0LTkzZGMtYWY1Nzc5MTU3MjMwIiwidCI6IjY3ZjdhOGVkLTdiNTEtNGQ4Mi05MzM2LWQwN2U1NTI4NTI0YiJ9)
 
 <img width="837" height="606" alt="Screenshot (1610)" src="https://github.com/user-attachments/assets/7d51772b-f76b-42f2-8c47-cb51f1a1b412" />
 
