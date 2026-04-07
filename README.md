@@ -16,7 +16,8 @@ Station locations
 Rider type (casual vs annual member) 
 To ensure privacy and ethical data use, personally identifiable information (PII) is not included. Therefore, the analysis focuses on aggregated trends and usage patterns rather than individual riders.
 This data is well-suited for identifying behavioral differences, seasonal trends, and usage patterns, which support the objective of converting casual riders into annual members.
-[Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html)           [License](https://divvybikes.com/data-license-agreement)
+*    [Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html)
+*    [License](https://divvybikes.com/data-license-agreement)
 
 
 ### Data Cleaning 
