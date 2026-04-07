@@ -4,5 +4,5 @@ This folder contains the datasets used for the Citi Bike Share Analysis, includi
 
 The data is publicly available and has been used in compliance with privacy standards, with no personally identifiable information included.
 
-[Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)</br>
-[License](https://divvybikes.com/data-license-agreement)
+*  [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+*  [License](https://divvybikes.com/data-license-agreement)
